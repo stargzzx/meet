@@ -8,4 +8,26 @@ date: 2020-09-19 12:18:29
 
 - []()
 
+<br/>
+
+# 技术
+
+<br/>
+
+- hexo + github
+- gitee 图床
+- 资料存储 百度云盘
+
+## 实现细节
+
+- []()
+
+<br/>
+
+# 主题
+
+<br/>
+
+- [hexo-theme-ascent](https://github.com/cjquines/hexo-theme-ascent)
+
 
